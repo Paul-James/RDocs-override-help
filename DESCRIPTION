@@ -6,4 +6,5 @@ Date: 2013-07-26
 Author: Jonathan Cornelissen (for Rdocumentation.org)
 Maintainer: Jonathan Cornelissen <Jonathan@datamind.org>
 Description: Enhance the search/help functionality in R with Rdocumentation.org
-License:  GPL (>= 2)
+License: GPL (>= 2)
+RoxygenNote: 5.0.1
